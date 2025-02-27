@@ -1,4 +1,4 @@
-#SARA NICOL SALAZAR PRECIADO
+SARA NICOL SALAZAR PRECIADO
 ---
 Diseño de modas
 Segundo semestre
@@ -17,6 +17,7 @@ Me gusta el diseño de modas, jugar voleibol, viajar, al momento de vijara me gu
 José Joanquin, Florez Hernández
 — Febrero 2016 - Diciembre 2022
 
-|compañeros| |Enlace del perfil|
-|Juana Barriga https://github.com/cunjuanabarriga |
-| Ángel Núñez https://github.com/cun-angelnunez |
+| Compañeros | Link del perfil |
+| ------ | ------ |
+| Juana Barriga | https://github.com/cunjuanabarriga |
+| Angel Nuñez |https://github.com/cun-angelnunez  |
