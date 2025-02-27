@@ -1,16 +1,17 @@
-## Hi there 👋
+SARA NICOL SALAZAR PRECIADO
+Diseño de modas
+Segundo semestre
 
-<!--
-**cunsarasalazar/cunsarasalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Descripción
+Me gusta el diseño de modas, jugar voleibol, viajar, al momento de vijara me gusta probar diferentes platos, me gusta aalir a correr y nadar, soy de Tumaco tengo 19 años y actualmente vivo en Ibague.
 
-Here are some ideas to get you started:
+Experiencia laboral
+Administradora de restaurante, mesera, bartender y concinera
+Estudios obtenidos
+Bachillerato académico
+José Joanquin, Florez Hernández
+— Febrero 2016 - Diciembre 2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|compañeros| |Enlace del perfil|
+|Juana Barriga https://github.com/cunjuanabarriga |
+| Ángel Núñez https://github.com/cun-angelnunez |
